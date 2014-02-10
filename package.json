@@ -1,0 +1,26 @@
+{
+  "name": "roost",
+  "version": "0.1.0",
+  "description": "Roost con demo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/shrunyan/roost-app-2014"
+  },
+  "author": "Stuart Runyan",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shrunyan/roost-app-2014/issues"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.8.0"
+  }
+}
